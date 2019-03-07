@@ -1,0 +1,160 @@
+/* Hi my name is Jelle */
+body{
+    overflow-x: hidden;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+  }
+  
+   
+  #car {
+      grid-row: 1/2;
+      grid-column: 1/2;
+      margin-top: -8px;
+      margin-left: -1550px;
+      margin-right: 350px;
+      margin-bottom: -800px;
+      position: relative;
+      background-color:white;
+      opacity: 0.8;
+      text-align: center;
+      overflow: hidden; 
+      z-index: 2;
+  }
+
+  #lol {
+      grid-row: 1/2;
+      grid-column: 1/2;
+      margin-top: -8px;
+      margin-left: -8px;
+      margin-right: -8px;
+      margin-bottom: -800px;
+      z-index: 0;
+      background-image: url('img/maybefotoportfolio.jpeg');
+      color: white;
+      height: 626px;
+  }
+
+  #contactform {
+/*      margin-bottom: -568px;
+      margin-left: 200px;
+      margin-right: 200px;
+      Z-index: 1;
+      */
+
+    margin-bottom: -600px;
+    margin-top: -40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    z-index: 1;
+    padding-top: 12px;
+    overflow:hidden;
+      
+  }
+  * {
+    box-sizing: border-box;
+    z-index: 1;
+    opacity: 0.95;
+    
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    z-index: 1;
+    opacity: 1;
+    font-size: 13px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    z-index: 1;
+    opacity: 1;
+    font-size: 13px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+    z-index: 1;
+    opacity: 1;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    z-index: 1;
+    opacity: 1;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+    z-index: 1;
+    color: #222222;
+    font-size: 14px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    z-index: 1;
+  }
+  
+  #contact {
+    color: rgb(53, 162, 177);
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Julius Sans One', sans-serif;
+    text-shadow: 2px 2px 3px black;
+    text-align: center;
+  }
+
+  p {
+    color: #222222;
+    font-size: 20px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: normal;
+    text-shadow: none;
+    margin-top: -20px;
+  }
+
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+      z-index:1;
+      opacity: 1;
+    }
+  }
+  
+
+  /*///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        margin-left: -20px;
+      margin-right: -7px;
+      margin-top: -8px;
+
+            width: 4000px;
+      height: 1000px;
+
+  ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/

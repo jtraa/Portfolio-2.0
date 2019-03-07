@@ -1,0 +1,44 @@
+W3School Quizzes
+Wat ging er goed tijdens de zelfstudie? Zijn de inloopdagen goed verlopen? Waar liep je tegenaan? 
+Noteer je sterke punten en dingen die goed gaan.
+Wat zijn je leerdoelen voor deze week m.b.t. het portfolio? 
+Formuleer je leerdoelen in kleine afstreepbare taken.
+Zoek inspiratie.
+
+W3Schools How To. Tutorials
+Noteer alle elementen die je wilt hebben in je portfolio.
+Korte presentatie aan de hand van inspiratie en voorbeelden
+
+
+<!-- antwoorden -->
+
+Wat ging er goed tijdens de zelfstudie? 
+
+HTML en HTML 5 vond ik erg goed gaan, daar heb ik ook veel tijd aan besteed tijdens de zelfstudie. Ook omdat dit de basis is, ook voor de andere talen.
+CSS ging goed, alleen heb ik daar nog niet genoeg in geoefend dus daar ga ik mij mee bezig houden.
+Javascript kwam bekend voor, omdat ik zelf al een maandje bezig ben geweest met C, kwam mij veel bekend voor zoals while loops.
+PHP ging prima, ook omdat het een beetje afleid van C, maar ook omdat ik er al ooit via codeacademy mee aan de slag ben geweest.
+
+Noteer je sterke punten en dingen die goed gaan.
+
+- Ervaring met programmeren, C, Linux, Python en een beetje PHP.
+- HTML en Javascript zijn goed gegaan tijdens de zelfstudie.
+- Ervaring met solliciteren.
+
+Wat zijn je leerdoelen voor deze week m.b.t. het portfolio?
+ 
+1. CSS kennis verbeteren en toepassen. 
+2. Javascript elementen toevoegen
+3. programmeer-richting bepalen en toevoegen.
+
+Zoek inspiratie.
+
+Noteer alle elementen die je wilt hebben in je portfolio.
+
+- Richting
+- Home
+- Curriculum Vitae
+- Certificaten
+- Niveaus van Programeertalen
+
+Korte presentatie aan de hand van inspiratie en voorbeelden
